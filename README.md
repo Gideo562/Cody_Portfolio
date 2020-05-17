@@ -2,6 +2,7 @@
 Past Data Science and Machine Learning Projects
 
 # Project 1: Blockbuster Revenue Predictions 
-CREATED A REVENUE PREDICTION MODEL THAT LOOKED FOR SIMILARITIES AMONG ALL HIGH GROSSING FILMS TO
-FIND OUT WHAT FACTORS HELP CONTRIBUTE TO THESE MOVIE SUCCESSES BY UTILIZING APIS AND LIBRARIES SUCH
-AS PANDAS, NUMPY, SCIPY, AND MATPLOTLIB
+Created a revenue prediction model that looked for similarities among all high grossing films to
+find out what factors help contribute to these movie successes by utilizing apis and libraries such as:
+* pandas, numpy, sklearn, and matplotlib
+
