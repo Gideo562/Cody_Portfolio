@@ -1,5 +1,5 @@
-# Cody_Portfolio
-Past Data Science, Machine Learning, and Distinctive Projects
+# Cody's Portfolio
+Past Data Science, Machine Learning, and Neural Signal Processing Projects
 
 # [Project 1: Blockbuster Revenue Predictions](https://github.com/Gideo562/BlockBusterRevenue.git) 
 Created a revenue prediction model that looked for similarities among all high grossing films to
