@@ -17,6 +17,6 @@ Took an existing csv file that had information on neural activity of a monkey’
 using libraries and apis such as: 
 * scipy, pandas, numpy, seaborn, and matplotlib 
 
-# (Current In-Progress) Project 4: Pokemon Battle Predictor
+# [(Current In-Progress) Project 4: Pokemon Battle Predictor](https://github.com/Gideo562/PokemonDataScience.git)
 Taking existing data from kaggle, the goal of the project is to develop a model that will predict a winner between 
 two pokemon based on different stats that they carry.
